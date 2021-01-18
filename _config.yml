@@ -3,7 +3,7 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /images/theme/simple-logo.svg #/img/logo.svg
+logo: /images/theme/logo.png #/img/logo.svg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -77,13 +77,14 @@ navbar:
         归档: /archives
         分类: /categories
         标签: /tags
-        关于: /about
-        相册: /album
-        Friend: /friend
-        留言: /message
-        Self-talking: /self-talking
-        Music: /music
-        Media: /media
+        # todo
+        # 关于: /about
+        # 相册: /album
+        # Friend: /friend
+        # 留言: /message
+        # Self-talking: /self-talking
+        # Music: /music
+        # Media: /media
     # Links to be shown on the right of the navigation bar
     links:
         Join Gitter:
